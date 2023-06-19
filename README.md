@@ -1,2 +1,6 @@
 # 2023-typescript-study
-타입스크립트에 대한 스터디 정리 및 회고
+
+👩🏻‍💻 Study Member
+|[해혁](https://github.com/hyuk12)|[현수](https://github.com/dlgustn376)|[나영](https://github.com/naocod)|
+|:---:|:---:|:---:|
+| hyuk12 | dlgustn376 | naocod |
